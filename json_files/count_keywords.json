@@ -1,0 +1,626 @@
+[
+    {
+        "keyword": "virtual reality",
+        "count": "23"
+    },
+    {
+        "keyword": "survey",
+        "count": "15"
+    },
+    {
+        "keyword": "aerospace",
+        "count": "3"
+    },
+    {
+        "keyword": "maritime",
+        "count": "21"
+    },
+    {
+        "keyword": "military",
+        "count": "15"
+    },
+    {
+        "keyword": "submarine",
+        "count": "3"
+    },
+    {
+        "keyword": "training",
+        "count": "20"
+    },
+    {
+        "keyword": "simulator",
+        "count": "2"
+    },
+    {
+        "keyword": "web",
+        "count": "4"
+    },
+    {
+        "keyword": "webgl",
+        "count": "1"
+    },
+    {
+        "keyword": "navy",
+        "count": "9"
+    },
+    {
+        "keyword": "patent",
+        "count": "5"
+    },
+    {
+        "keyword": "gestures",
+        "count": "41"
+    },
+    {
+        "keyword": "aviation",
+        "count": "10"
+    },
+    {
+        "keyword": "head-mounted-display",
+        "count": "2"
+    },
+    {
+        "keyword": "HMD",
+        "count": "4"
+    },
+    {
+        "keyword": "gloves",
+        "count": "5"
+    },
+    {
+        "keyword": "Oculus Rift",
+        "count": "1"
+    },
+    {
+        "keyword": "LEAP Motion",
+        "count": "1"
+    },
+    {
+        "keyword": "HCI",
+        "count": "3"
+    },
+    {
+        "keyword": "design",
+        "count": "11"
+    },
+    {
+        "keyword": "CAD",
+        "count": "6"
+    },
+    {
+        "keyword": "simulation",
+        "count": "5"
+    },
+    {
+        "keyword": "manufacturing",
+        "count": "8"
+    },
+    {
+        "keyword": "ship design",
+        "count": "7"
+    },
+    {
+        "keyword": "ship building",
+        "count": "9"
+    },
+    {
+        "keyword": "power plant",
+        "count": "1"
+    },
+    {
+        "keyword": "immersive",
+        "count": "1"
+    },
+    {
+        "keyword": "head-mounted displays",
+        "count": "1"
+    },
+    {
+        "keyword": "tradmill",
+        "count": "1"
+    },
+    {
+        "keyword": "unity",
+        "count": "1"
+    },
+    {
+        "keyword": "oculus rift",
+        "count": "1"
+    },
+    {
+        "keyword": "speech recognition",
+        "count": "47"
+    },
+    {
+        "keyword": "dialog",
+        "count": "7"
+    },
+    {
+        "keyword": "modelling",
+        "count": "1"
+    },
+    {
+        "keyword": "discarded-duplicate",
+        "count": "3"
+    },
+    {
+        "keyword": "touch",
+        "count": "2"
+    },
+    {
+        "keyword": "multi-touch",
+        "count": "2"
+    },
+    {
+        "keyword": "MMI",
+        "count": "2"
+    },
+    {
+        "keyword": "augmented reality",
+        "count": "8"
+    },
+    {
+        "keyword": "under water",
+        "count": "1"
+    },
+    {
+        "keyword": "ocean",
+        "count": "2"
+    },
+    {
+        "keyword": "games",
+        "count": "2"
+    },
+    {
+        "keyword": "multimodal",
+        "count": "23"
+    },
+    {
+        "keyword": "object interaction",
+        "count": "2"
+    },
+    {
+        "keyword": "two hands",
+        "count": "1"
+    },
+    {
+        "keyword": "eye tracking",
+        "count": "2"
+    },
+    {
+        "keyword": "fobias",
+        "count": "1"
+    },
+    {
+        "keyword": "health",
+        "count": "8"
+    },
+    {
+        "keyword": "challenges",
+        "count": "1"
+    },
+    {
+        "keyword": "data visualization",
+        "count": "4"
+    },
+    {
+        "keyword": "scientific",
+        "count": "1"
+    },
+    {
+        "keyword": "rehabilitation",
+        "count": "3"
+    },
+    {
+        "keyword": "serious games",
+        "count": "2"
+    },
+    {
+        "keyword": "telemedicine",
+        "count": "2"
+    },
+    {
+        "keyword": "haptic",
+        "count": "2"
+    },
+    {
+        "keyword": "tactile",
+        "count": "2"
+    },
+    {
+        "keyword": "robot",
+        "count": "4"
+    },
+    {
+        "keyword": "assistant",
+        "count": "3"
+    },
+    {
+        "keyword": "robot control",
+        "count": "7"
+    },
+    {
+        "keyword": "virtual prototyping",
+        "count": "8"
+    },
+    {
+        "keyword": "crane",
+        "count": "7"
+    },
+    {
+        "keyword": "ntnu",
+        "count": "1"
+    },
+    {
+        "keyword": "challenge",
+        "count": "2"
+    },
+    {
+        "keyword": "dataset",
+        "count": "5"
+    },
+    {
+        "keyword": "methods",
+        "count": "2"
+    },
+    {
+        "keyword": "algorithms",
+        "count": "2"
+    },
+    {
+        "keyword": "classification",
+        "count": "2"
+    },
+    {
+        "keyword": "stereoscopic",
+        "count": "2"
+    },
+    {
+        "keyword": "digitalization",
+        "count": "2"
+    },
+    {
+        "keyword": "automotive",
+        "count": "3"
+    },
+    {
+        "keyword": "gesture mapping",
+        "count": "1"
+    },
+    {
+        "keyword": "pen-based",
+        "count": "4"
+    },
+    {
+        "keyword": "map",
+        "count": "1"
+    },
+    {
+        "keyword": "geospatial",
+        "count": "2"
+    },
+    {
+        "keyword": "nao",
+        "count": "1"
+    },
+    {
+        "keyword": "humanoid robot",
+        "count": "1"
+    },
+    {
+        "keyword": "conversation",
+        "count": "1"
+    },
+    {
+        "keyword": "robotic gestures",
+        "count": "1"
+    },
+    {
+        "keyword": "natural speech",
+        "count": "1"
+    },
+    {
+        "keyword": "dialogue",
+        "count": "1"
+    },
+    {
+        "keyword": "visualization",
+        "count": "5"
+    },
+    {
+        "keyword": "crane operation",
+        "count": "4"
+    },
+    {
+        "keyword": "distributed",
+        "count": "1"
+    },
+    {
+        "keyword": "OSC-related",
+        "count": "5"
+    },
+    {
+        "keyword": "collaboration",
+        "count": "4"
+    },
+    {
+        "keyword": "pictures for presentations",
+        "count": "1"
+    },
+    {
+        "keyword": "geo-spatial",
+        "count": "2"
+    },
+    {
+        "keyword": "geo-scientific",
+        "count": "1"
+    },
+    {
+        "keyword": "input device",
+        "count": "1"
+    },
+    {
+        "keyword": "sonification",
+        "count": "1"
+    },
+    {
+        "keyword": "navigation",
+        "count": "2"
+    },
+    {
+        "keyword": "wearable",
+        "count": "1"
+    },
+    {
+        "keyword": "google glass",
+        "count": "1"
+    },
+    {
+        "keyword": "Amazon",
+        "count": "1"
+    },
+    {
+        "keyword": "Kinect",
+        "count": "3"
+    },
+    {
+        "keyword": "GIS",
+        "count": "1"
+    },
+    {
+        "keyword": "maps",
+        "count": "2"
+    },
+    {
+        "keyword": "accelerometers",
+        "count": "1"
+    },
+    {
+        "keyword": "engine room",
+        "count": "1"
+    },
+    {
+        "keyword": "medicine",
+        "count": "1"
+    },
+    {
+        "keyword": "operation room",
+        "count": "1"
+    },
+    {
+        "keyword": "hand gestures",
+        "count": "1"
+    },
+    {
+        "keyword": "finger gestures",
+        "count": "1"
+    },
+    {
+        "keyword": "applications",
+        "count": "2"
+    },
+    {
+        "keyword": "shipyard",
+        "count": "2"
+    },
+    {
+        "keyword": "prototyping",
+        "count": "2"
+    },
+    {
+        "keyword": "block erection",
+        "count": "2"
+    },
+    {
+        "keyword": "Microsoft",
+        "count": "1"
+    },
+    {
+        "keyword": "scientific visualization",
+        "count": "1"
+    },
+    {
+        "keyword": "production",
+        "count": "1"
+    },
+    {
+        "keyword": "NASA",
+        "count": "1"
+    },
+    {
+        "keyword": "space",
+        "count": "1"
+    },
+    {
+        "keyword": "telescope",
+        "count": "1"
+    },
+    {
+        "keyword": "marketing",
+        "count": "2"
+    },
+    {
+        "keyword": "Speech recognition",
+        "count": "1"
+    },
+    {
+        "keyword": "Rehabilitation",
+        "count": "1"
+    },
+    {
+        "keyword": "dysphony",
+        "count": "1"
+    },
+    {
+        "keyword": "relevent",
+        "count": "1"
+    },
+    {
+        "keyword": "information system",
+        "count": "1"
+    },
+    {
+        "keyword": "tourism",
+        "count": "1"
+    },
+    {
+        "keyword": "user interface",
+        "count": "1"
+    },
+    {
+        "keyword": "natural user interface",
+        "count": "1"
+    },
+    {
+        "keyword": "NUI",
+        "count": "1"
+    },
+    {
+        "keyword": "writing",
+        "count": "1"
+    },
+    {
+        "keyword": "theory",
+        "count": "2"
+    },
+    {
+        "keyword": "speech synthesis",
+        "count": "1"
+    },
+    {
+        "keyword": "kinect",
+        "count": "1"
+    },
+    {
+        "keyword": "usability",
+        "count": "1"
+    },
+    {
+        "keyword": "Virtual Reality",
+        "count": "1"
+    },
+    {
+        "keyword": "remote control",
+        "count": "5"
+    },
+    {
+        "keyword": "weather",
+        "count": "1"
+    },
+    {
+        "keyword": "news",
+        "count": "1"
+    },
+    {
+        "keyword": "team",
+        "count": "1"
+    },
+    {
+        "keyword": "virtual environments",
+        "count": "1"
+    },
+    {
+        "keyword": "assembly",
+        "count": "1"
+    },
+    {
+        "keyword": "user study",
+        "count": "2"
+    },
+    {
+        "keyword": "crisis management",
+        "count": "1"
+    },
+    {
+        "keyword": "deck operator",
+        "count": "2"
+    },
+    {
+        "keyword": "NATOPS",
+        "count": "3"
+    },
+    {
+        "keyword": "power-utility",
+        "count": "1"
+    },
+    {
+        "keyword": "intonation",
+        "count": "1"
+    },
+    {
+        "keyword": "context",
+        "count": "1"
+    },
+    {
+        "keyword": "tabletop",
+        "count": "1"
+    },
+    {
+        "keyword": "remote us navy gestures",
+        "count": "1"
+    },
+    {
+        "keyword": "ship",
+        "count": "1"
+    },
+    {
+        "keyword": "speech",
+        "count": "1"
+    },
+    {
+        "keyword": "lifting",
+        "count": "1"
+    },
+    {
+        "keyword": "user-defined gestures",
+        "count": "1"
+    },
+    {
+        "keyword": "table-top",
+        "count": "1"
+    },
+    {
+        "keyword": "touchscreen",
+        "count": "1"
+    },
+    {
+        "keyword": "microsoft surface",
+        "count": "1"
+    },
+    {
+        "keyword": "verification",
+        "count": "1"
+    },
+    {
+        "keyword": "pipe laying",
+        "count": "1"
+    },
+    {
+        "keyword": "pipes",
+        "count": "1"
+    },
+    {
+        "keyword": "techniques",
+        "count": "1"
+    }
+]

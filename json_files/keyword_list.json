@@ -1,0 +1,833 @@
+[
+    {
+        "id": "AnthesGarcia-HernandezEtAl2016",
+        "virtual reality": 1,
+        "survey": 1,
+        "aerospace": 1
+    },
+    {
+        "id": "Bastos2014",
+        "maritime": 1,
+        "military": 1,
+        "submarine": 1,
+        "training": 1,
+        "simulator": 1,
+        "virtual reality": 1,
+        "web": 1,
+        "webgl": 1,
+        "navy": 1
+    },
+    {
+        "id": "Baum1994",
+        "patent": 1,
+        "virtual reality": 1,
+        "gestures": 1,
+        "aviation": 1,
+        "training": 1,
+        "head-mounted-display": 1,
+        "HMD": 1,
+        "gloves": 1
+    },
+    {
+        "id": "BeattieHoranEtAl2015",
+        "Oculus Rift": 1,
+        "LEAP Motion": 1,
+        "HCI": 1,
+        "design": 1,
+        "CAD": 1,
+        "HMD": 1
+    },
+    {
+        "id": "Beier2000",
+        "design": 1,
+        "web": 1,
+        "maritime": 1,
+        "aviation": 1,
+        "simulation": 1,
+        "manufacturing": 1,
+        "ship design": 1,
+        "ship building": 1
+    },
+    {
+        "id": "BeleznaiSzavaiEtAl",
+        "training": 1,
+        "power plant": 1,
+        "immersive": 1,
+        "virtual reality": 1,
+        "head-mounted displays": 1,
+        "HMD": 1,
+        "tradmill": 1,
+        "unity": 1,
+        "oculus rift": 1
+    },
+    {
+        "id": "BellWeinstein2011",
+        "speech recognition": 1,
+        "dialog": 1
+    },
+    {
+        "id": "BerndtLukasEtAl2015",
+        "maritime": 1,
+        "ship design": 1,
+        "modelling": 1,
+        "CAD": 1,
+        "ship building": 1,
+        "design": 1,
+        "discarded-duplicate": 1
+    },
+    {
+        "id": "BjoernesethDunlopEtAl2012",
+        "gestures": 1,
+        "touch": 1,
+        "multi-touch": 1,
+        "maritime": 1,
+        "HCI": 1,
+        "MMI": 1,
+        "ship design": 1,
+        "ship building": 1,
+        "design": 1
+    },
+    {
+        "id": "BlumBrollEtAl2009",
+        "augmented reality": 1,
+        "under water": 1,
+        "ocean": 1,
+        "maritime": 1,
+        "games": 1
+    },
+    {
+        "id": "Bolt1980",
+        "gestures": 1,
+        "speech recognition": 1,
+        "multimodal": 1,
+        "object interaction": 1
+    },
+    {
+        "id": "BoltHerranz1992",
+        "gestures": 1,
+        "two hands": 1,
+        "multimodal": 1,
+        "speech recognition": 1,
+        "eye tracking": 1,
+        "gloves": 1
+    },
+    {
+        "id": "Breaux1977",
+        "training": 1,
+        "military": 1,
+        "aviation": 1,
+        "speech recognition": 1
+    },
+    {
+        "id": "BrinkmanHartantoEtAl2012",
+        "speech recognition": 1,
+        "virtual reality": 1,
+        "fobias": 1,
+        "health": 1,
+        "dialog": 1
+    },
+    {
+        "id": "Bryson1996",
+        "virtual reality": 1,
+        "challenges": 1,
+        "data visualization": 1,
+        "scientific": 1
+    },
+    {
+        "id": "BurdeaPopescuEtAl2000",
+        "rehabilitation": 1,
+        "virtual reality": 1,
+        "serious games": 1,
+        "health": 1,
+        "telemedicine": 1,
+        "haptic": 1,
+        "tactile": 1
+    },
+    {
+        "id": "BurgerFerraneEtAl2012",
+        "speech recognition": 1,
+        "gestures": 1,
+        "multimodal": 1,
+        "robot": 1,
+        "assistant": 1,
+        "robot control": 1
+    },
+    {
+        "id": "ByeOsenEtAl2016",
+        "virtual prototyping": 1,
+        "crane": 1,
+        "ntnu": 1,
+        "web": 1
+    },
+    {
+        "id": "ChaLearn2013",
+        "gestures": 1,
+        "challenge": 1,
+        "dataset": 1,
+        "multimodal": 1
+    },
+    {
+        "id": "ChaquetCarmonaEtAl2013",
+        "gestures": 1,
+        "dataset": 1,
+        "survey": 1
+    },
+    {
+        "id": "ChenLiEtAl2012",
+        "ocean": 1,
+        "virtual reality": 1,
+        "data visualization": 1,
+        "simulation": 1,
+        "maritime": 1
+    },
+    {
+        "id": "ChengYangEtAl2016",
+        "gestures": 1,
+        "dataset": 1,
+        "survey": 1,
+        "methods": 1,
+        "algorithms": 1,
+        "classification": 1
+    },
+    {
+        "id": "ChoiCheung2008",
+        "virtual prototyping": 1,
+        "manufacturing": 1,
+        "design": 1,
+        "virtual reality": 1,
+        "CAD": 1,
+        "stereoscopic": 1
+    },
+    {
+        "id": "ChryssolourisMavrikiosEtAl2009",
+        "manufacturing": 1,
+        "survey": 1,
+        "virtual prototyping": 1,
+        "digitalization": 1,
+        "automotive": 1
+    },
+    {
+        "id": "ChuDaniEtAl1997",
+        "CAD": 1,
+        "multimodal": 1,
+        "speech recognition": 1,
+        "gestures": 1,
+        "design": 1,
+        "HCI": 1,
+        "MMI": 1,
+        "gesture mapping": 1
+    },
+    {
+        "id": "CohenJohnstonEtAl1997",
+        "multimodal": 1,
+        "speech recognition": 1,
+        "gestures": 1,
+        "pen-based": 1,
+        "map": 1,
+        "geospatial": 1
+    },
+    {
+        "id": "CsapoGilmartinEtAl2012",
+        "nao": 1,
+        "humanoid robot": 1,
+        "robot": 1,
+        "conversation": 1,
+        "multimodal": 1,
+        "robotic gestures": 1,
+        "natural speech": 1,
+        "speech recognition": 1,
+        "dialogue": 1,
+        "augmented reality": 1
+    },
+    {
+        "id": "DeVaultArtsteinEtAl2014",
+        "speech recognition": 1,
+        "dialog": 1,
+        "health": 1
+    },
+    {
+        "id": "DengLiu2013",
+        "crane": 1,
+        "simulation": 1,
+        "visualization": 1,
+        "crane operation": 1
+    },
+    {
+        "id": "DongZouEtAl2009",
+        "crane": 1,
+        "distributed": 1,
+        "training": 1,
+        "virtual reality": 1,
+        "crane operation": 1,
+        "OSC-related": 1
+    },
+    {
+        "id": "DuarteFilhoCostaBotelhoEtAl2010",
+        "collaboration": 1,
+        "ship building": 1,
+        "maritime": 1,
+        "virtual prototyping": 1,
+        "ship design": 1,
+        "CAD": 1,
+        "manufacturing": 1,
+        "design": 1
+    },
+    {
+        "id": "FernandezAlonso2015",
+        "maritime": 1,
+        "virtual reality": 1,
+        "visualization": 1,
+        "pictures for presentations": 1,
+        "collaboration": 1,
+        "ship design": 1,
+        "ship building": 1,
+        "design": 1
+    },
+    {
+        "id": "FroehlichBarrassEtAl1999",
+        "geo-spatial": 1,
+        "geo-scientific": 1,
+        "input device": 1,
+        "data visualization": 1,
+        "sonification": 1
+    },
+    {
+        "id": "Grabowski2015",
+        "maritime": 1,
+        "navigation": 1,
+        "augmented reality": 1,
+        "wearable": 1,
+        "google glass": 1
+    },
+    {
+        "id": "GradyHicklinEtAl1977",
+        "training": 1,
+        "military": 1,
+        "aviation": 1,
+        "speech recognition": 1
+    },
+    {
+        "id": "HartFreedEtAl2014",
+        "speech recognition": 1,
+        "gestures": 1,
+        "patent": 1,
+        "Amazon": 1
+    },
+    {
+        "id": "HartholtTraumEtAl2013",
+        "speech recognition": 1,
+        "dialog": 1
+    },
+    {
+        "id": "HaysVincenzi2000",
+        "training": 1,
+        "maritime": 1,
+        "submarine": 1,
+        "speech recognition": 1,
+        "navy": 1,
+        "military": 1
+    },
+    {
+        "id": "HosteDumasEtAl2012",
+        "Kinect": 1,
+        "speech recognition": 1,
+        "gestures": 1,
+        "multimodal": 1
+    },
+    {
+        "id": "HuguesCieutatEtAl2010",
+        "augmented reality": 1,
+        "maritime": 1,
+        "navigation": 1,
+        "GIS": 1,
+        "geospatial": 1,
+        "maps": 1
+    },
+    {
+        "id": "Ishimitsu2008",
+        "maritime": 1,
+        "speech recognition": 1,
+        "accelerometers": 1,
+        "engine room": 1
+    },
+    {
+        "id": "JacobLiEtAl2012",
+        "gestures": 1,
+        "speech recognition": 1,
+        "multimodal": 1,
+        "health": 1,
+        "medicine": 1,
+        "operation room": 1,
+        "hand gestures": 1,
+        "finger gestures": 1,
+        "robot control": 1
+    },
+    {
+        "id": "JaimesSebe2007",
+        "gestures": 1,
+        "speech recognition": 1,
+        "multimodal": 1,
+        "survey": 1
+    },
+    {
+        "id": "JenabMoslehpourEtAl2016",
+        "virtual reality": 1,
+        "applications": 1,
+        "survey": 1,
+        "military": 1,
+        "aviation": 1
+    },
+    {
+        "id": "JianqiFangEtAl2015",
+        "crane": 1,
+        "simulation": 1,
+        "visualization": 1,
+        "crane operation": 1
+    },
+    {
+        "id": "KimLeeEtAl2002",
+        "maritime": 1,
+        "shipyard": 1,
+        "ship building": 1,
+        "manufacturing": 1,
+        "prototyping": 1,
+        "crane": 1,
+        "block erection": 1
+    },
+    {
+        "id": "KimLeeEtAl2005",
+        "maritime": 1,
+        "shipyard": 1,
+        "manufacturing": 1,
+        "prototyping": 1,
+        "block erection": 1,
+        "crane": 1,
+        "ship building": 1,
+        "discarded-duplicate": 1
+    },
+    {
+        "id": "KleinVassighEtAl2012",
+        "gestures": 1,
+        "speech recognition": 1,
+        "patent": 1,
+        "Microsoft": 1
+    },
+    {
+        "id": "KoonsSparrellEtAl1993",
+        "gestures": 1,
+        "speech recognition": 1,
+        "eye tracking": 1,
+        "multimodal": 1
+    },
+    {
+        "id": "Kshirsagar2013",
+        "gestures": 1,
+        "speech recognition": 1,
+        "patent": 1
+    },
+    {
+        "id": "LaViola2000",
+        "gestures": 1,
+        "speech recognition": 1,
+        "multimodal": 1,
+        "object interaction": 1,
+        "data visualization": 1,
+        "scientific visualization": 1
+    },
+    {
+        "id": "Lindskog2014",
+        "production": 1,
+        "manufacturing": 1,
+        "virtual prototyping": 1,
+        "visualization": 1,
+        "virtual reality": 1
+    },
+    {
+        "id": "LoftinKenneyEtAl1994",
+        "training": 1,
+        "virtual reality": 1,
+        "NASA": 1,
+        "space": 1,
+        "telescope": 1,
+        "aerospace": 1,
+        "OSC-related": 1
+    },
+    {
+        "id": "Lukas2006",
+        "maritime": 1,
+        "virtual reality": 1,
+        "augmented reality": 1,
+        "training": 1,
+        "design": 1,
+        "marketing": 1,
+        "ship design": 1,
+        "ship building": 1,
+        "survey": 1
+    },
+    {
+        "id": "LukasFreiherr2010",
+        "maritime": 1,
+        "virtual reality": 1,
+        "augmented reality": 1,
+        "training": 1,
+        "design": 1,
+        "marketing": 1,
+        "CAD": 1,
+        "survey": 1
+    },
+    {
+        "id": "LvEsteveEtAl2015",
+        "Speech recognition": 1,
+        "health": 1,
+        "Rehabilitation": 1,
+        "dysphony": 1,
+        "relevent": 1,
+        "augmented reality": 1
+    },
+    {
+        "id": "MastKompeEtAl1992",
+        "speech recognition": 1,
+        "dialog": 1,
+        "information system": 1,
+        "tourism": 1
+    },
+    {
+        "id": "MurilloStifelmanEtAl2014",
+        "gestures": 1,
+        "speech recognition": 1,
+        "user interface": 1,
+        "natural user interface": 1,
+        "NUI": 1,
+        "patent": 1
+    },
+    {
+        "id": "Oviatt1999",
+        "multimodal": 1,
+        "speech recognition": 1,
+        "gestures": 1,
+        "writing": 1,
+        "theory": 1,
+        "survey": 1
+    },
+    {
+        "id": "OviattCohenEtAl2000",
+        "multimodal": 1,
+        "speech recognition": 1,
+        "gestures": 1,
+        "pen-based": 1,
+        "applications": 1,
+        "survey": 1
+    },
+    {
+        "id": "PPE1996",
+        "speech recognition": 1,
+        "speech synthesis": 1,
+        "military": 1,
+        "training": 1,
+        "OSC-related": 1,
+        "survey": 1
+    },
+    {
+        "id": "PappasKarabatsouEtAl2006",
+        "manufacturing": 1,
+        "survey": 1,
+        "virtual prototyping": 1,
+        "digitalization": 1,
+        "web": 1,
+        "collaboration": 1
+    },
+    {
+        "id": "PavlakosTheodorakisEtAl2014",
+        "gestures": 1,
+        "kinect": 1,
+        "challenge": 1
+    },
+    {
+        "id": "PeteiraPla-CastellsEtAl2011",
+        "crane": 1,
+        "usability": 1,
+        "simulation": 1,
+        "visualization": 1,
+        "training": 1,
+        "Virtual Reality": 1,
+        "crane operation": 1
+    },
+    {
+        "id": "PettittCarstensEtAl2014",
+        "military": 1,
+        "robot control": 1,
+        "speech recognition": 1,
+        "remote control": 1
+    },
+    {
+        "id": "PflegingSchneegassEtAl2012",
+        "automotive": 1,
+        "multimodal": 1,
+        "speech recognition": 1,
+        "gestures": 1
+    },
+    {
+        "id": "PisharadySaerbeck2015",
+        "gestures": 1,
+        "dataset": 1,
+        "survey": 1,
+        "methods": 1,
+        "algorithms": 1,
+        "classification": 1
+    },
+    {
+        "id": "PoddarSethiEtAl1998",
+        "multimodal": 1,
+        "gestures": 1,
+        "speech recognition": 1,
+        "weather": 1,
+        "news": 1
+    },
+    {
+        "id": "PopescuBurdeaEtAl2000",
+        "rehabilitation": 1,
+        "virtual reality": 1,
+        "serious games": 1,
+        "health": 1,
+        "telemedicine": 1,
+        "haptic": 1,
+        "tactile": 1
+    },
+    {
+        "id": "ReddenCarstensEtAl2010",
+        "speech recognition": 1,
+        "robot control": 1,
+        "remote control": 1,
+        "military": 1
+    },
+    {
+        "id": "RickelJohnson1999",
+        "virtual reality": 1,
+        "assistant": 1,
+        "training": 1,
+        "speech recognition": 1
+    },
+    {
+        "id": "RickelJohnson1999a",
+        "virtual reality": 1,
+        "assistant": 1,
+        "training": 1,
+        "speech recognition": 1,
+        "team": 1,
+        "collaboration": 1,
+        "head-mounted-display": 1,
+        "HMD": 1,
+        "gloves": 1
+    },
+    {
+        "id": "RizzoLangeEtAl2011",
+        "speech recognition": 1,
+        "health": 1,
+        "dialog": 1
+    },
+    {
+        "id": "RuffieuxLalanneEtAl2014",
+        "gestures": 1,
+        "dataset": 1,
+        "survey": 1
+    },
+    {
+        "id": "SaZachmann1999",
+        "virtual environments": 1,
+        "virtual prototyping": 1,
+        "virtual reality": 1,
+        "assembly": 1,
+        "automotive": 1,
+        "user study": 1,
+        "multimodal": 1,
+        "speech recognition": 1,
+        "aerospace": 1,
+        "gloves": 1
+    },
+    {
+        "id": "SastrySteelEtAl2001",
+        "gestures": 1,
+        "speech recognition": 1,
+        "training": 1,
+        "military": 1,
+        "navy": 1,
+        "aviation": 1
+    },
+    {
+        "id": "SharmaYeasinEtAl2003",
+        "gestures": 1,
+        "speech recognition": 1,
+        "crisis management": 1,
+        "multimodal": 1
+    },
+    {
+        "id": "SodiriSastry2004",
+        "gestures": 1,
+        "aviation": 1,
+        "deck operator": 1,
+        "training": 1
+    },
+    {
+        "id": "SongDemirdjianEtAl2011",
+        "aviation": 1,
+        "gestures": 1,
+        "military": 1,
+        "NATOPS": 1,
+        "navy": 1,
+        "maritime": 1
+    },
+    {
+        "id": "TamMaurelEtAl1998",
+        "virtual reality": 1,
+        "training": 1,
+        "power-utility": 1,
+        "speech recognition": 1
+    },
+    {
+        "id": "TaylorKingEtAl1998",
+        "speech recognition": 1,
+        "intonation": 1,
+        "context": 1,
+        "dialog": 1
+    },
+    {
+        "id": "TaylorPurmanEtAl2015",
+        "gestures": 1,
+        "speech recognition": 1,
+        "military": 1,
+        "robot": 1,
+        "multimodal": 1,
+        "pen-based": 1,
+        "robot control": 1,
+        "remote control": 1
+    },
+    {
+        "id": "TianLiuEtAl2015",
+        "military": 1,
+        "navy": 1,
+        "NATOPS": 1,
+        "training": 1,
+        "virtual reality": 1,
+        "OSC-related": 1
+    },
+    {
+        "id": "TseGreenbergEtAl2006",
+        "gestures": 1,
+        "speech recognition": 1,
+        "multimodal": 1,
+        "tabletop": 1,
+        "maps": 1,
+        "geo-spatial": 1,
+        "games": 1
+    },
+    {
+        "id": "Turan2007",
+        "gestures": 1,
+        "aviation": 1,
+        "deck operator": 1,
+        "training": 1,
+        "navy": 1
+    },
+    {
+        "id": "UrbanBajcsy2005",
+        "gestures": 1,
+        "speech recognition": 1,
+        "robot control": 1,
+        "remote us navy gestures": 1,
+        "navy": 1,
+        "maritime": 1,
+        "military": 1,
+        "remote control": 1
+    },
+    {
+        "id": "VarelaCachoEtAl2011",
+        "ship": 1,
+        "simulator": 1,
+        "maritime": 1,
+        "OSC-related": 1
+    },
+    {
+        "id": "VenetskyHusniEtAl2003",
+        "gestures": 1,
+        "NATOPS": 1,
+        "military": 1,
+        "navy": 1,
+        "aviation": 1
+    },
+    {
+        "id": "VincenziHaysEtAl2003",
+        "training": 1,
+        "maritime": 1,
+        "submarine": 1,
+        "speech recognition": 1,
+        "navy": 1,
+        "military": 1,
+        "discarded-duplicate": 1
+    },
+    {
+        "id": "WagnerMaliszEtAl2014",
+        "speech": 1,
+        "gestures": 1,
+        "multimodal": 1,
+        "theory": 1,
+        "survey": 1
+    },
+    {
+        "id": "WalterAntoneEtAl2015",
+        "robot": 1,
+        "robot control": 1,
+        "remote control": 1,
+        "gestures": 1,
+        "speech recognition": 1,
+        "multimodal": 1,
+        "lifting": 1,
+        "pen-based": 1
+    },
+    {
+        "id": "WilsonBenkoEtAl2012",
+        "gestures": 1,
+        "speech recognition": 1,
+        "Kinect": 1,
+        "augmented reality": 1
+    },
+    {
+        "id": "WobbrockMorrisEtAl2009",
+        "gestures": 1,
+        "user study": 1,
+        "user-defined gestures": 1,
+        "table-top": 1,
+        "touchscreen": 1,
+        "touch": 1,
+        "multi-touch": 1,
+        "microsoft surface": 1
+    },
+    {
+        "id": "WuYangEtAl2008",
+        "virtual prototyping": 1,
+        "design": 1,
+        "verification": 1,
+        "maritime": 1,
+        "pipe laying": 1,
+        "pipes": 1,
+        "virtual reality": 1,
+        "speech recognition": 1,
+        "ship design": 1,
+        "stereoscopic": 1,
+        "ship building": 1,
+        "gloves": 1
+    },
+    {
+        "id": "YehHwangEtAl2012",
+        "gestures": 1,
+        "speech recognition": 1,
+        "rehabilitation": 1,
+        "health": 1,
+        "Kinect": 1
+    },
+    {
+        "id": "Yin2014",
+        "gestures": 1,
+        "multimodal": 1,
+        "techniques": 1
+    }
+]
